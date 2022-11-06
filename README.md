@@ -2,6 +2,6 @@
 
 # Axel Negron Vega
 
-**Overview: **
+**Overview **
 Given a csv file as an additional arg outputs the relation score between two sequences
 using Needleman-Wunsch algorithm. Backtracking is done recursively.
